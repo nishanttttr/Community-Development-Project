@@ -1,5 +1,7 @@
 # Community-Development-Project
-# import java.util.ArrayList;
+
+
+import java.util.ArrayList;
 import java.util.Scanner;
 
 //Community participant class
